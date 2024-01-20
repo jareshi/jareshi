@@ -19,13 +19,32 @@ reshi = {
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{jareshi}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{jareshi}/count.svg" alt="jareshi :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jareshi&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jareshi&langs_count=10&theme=tokyonight&layout=compact" alt="jareshi :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jareshi&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jareshi&show_icons=true&theme=synthwave" alt="jareshi :: Profile Stats" /></p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.instagram.com/jh.iatus">
+    <img src="https://img.shields.io/badge/-jh.iatus-515BD4?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram: jh.iatus"/>
+  </a>&nbsp;
+  <a href="https://twitter.com/reshi3xt">
+    <img src="https://img.shields.io/twitter/follow/reshi3xt?style=social&label=@reshi3xt" alt="Twitter: reshi3xt"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/jaberul-haque-4948ab229/">
+    <img src="https://img.shields.io/badge/-jaberulhaque-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: jaberul-haque"/>
+  </a>&nbsp;
+  <a href="https://github.com/jareshi">
+    <img src="https://img.shields.io/github/followers/jareshi?label=follow&style=social" alt="GitHub: jareshi"/>
+  </a>
+</p>
+
+
 
 
 <!---
