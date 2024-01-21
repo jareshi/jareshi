@@ -6,11 +6,11 @@
 
 ```python
 reshi = {
-    "pronouns": ["he", "him"],
+    "occupation": ["intern", "actively searching"],
     "status": ["senior, undergraduate, Computer Science"],
-    "code": ["C#", "C++", "Python", "Java"],
-    "tools": ["React", "TensorFlow", "Node", "Docker"],
-    "projects": ["Senior Capstone", "Portfolio Site", "Text-based RPG"]
+    "languages": ["C#", "C++", "Python", "Java"],
+    "tools": ["React", "TensorFlow", "Node", "Docker", "Bootstrap", ".NET"],
+    "current projects": ["Senior Capstone", "Portfolio Site", "Text-based RPG"]
 }
 ```
 
