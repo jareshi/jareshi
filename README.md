@@ -36,7 +36,7 @@ reshi = {
   <a href="https://twitter.com/reshi3xt">
     <img src="https://img.shields.io/twitter/follow/reshi3xt?style=social&label=@reshi3xt" alt="Twitter: reshi3xt"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/jaberul-haque-4948ab229/">
+  <a href="https://www.linkedin.com/in/jareshi/">
     <img src="https://img.shields.io/badge/-jaberulhaque-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: jaberul-haque"/>
   </a>&nbsp;
   <a href="https://github.com/jareshi">
